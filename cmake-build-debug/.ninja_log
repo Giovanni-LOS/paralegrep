@@ -1,0 +1,8 @@
+# ninja log v6
+0	18	1733185817621695084	CMakeFiles/paralegrep.dir/src/main.c.o	f781bbd0bf5e764
+0	27	1733185817621695084	CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o	94893d856a98a282
+28	40	1733185817648361690	paralegrep	3bd2590e8fac85f1
+0	27	1733186315323913379	CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o	94893d856a98a282
+27	40	1733186315350579987	paralegrep	3bd2590e8fac85f1
+0	25	1733186441120300670	CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o	94893d856a98a282
+25	38	1733186441146967278	paralegrep	3bd2590e8fac85f1

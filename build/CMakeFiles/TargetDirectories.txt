@@ -1,0 +1,3 @@
+/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles/paralegrep.dir
+/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles/edit_cache.dir
+/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles/rebuild_cache.dir
