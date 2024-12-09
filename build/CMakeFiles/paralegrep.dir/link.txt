@@ -1,1 +1,1 @@
-/usr/bin/cc -Wl,--dependency-file,CMakeFiles/paralegrep.dir/link.d CMakeFiles/paralegrep.dir/src/main.c.o CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o CMakeFiles/paralegrep.dir/src/utils.c.o -o paralegrep
+/usr/bin/cc -Wl,--dependency-file,CMakeFiles/paralegrep.dir/link.d CMakeFiles/paralegrep.dir/src/main.c.o CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o CMakeFiles/paralegrep.dir/src/thread_worker.c.o CMakeFiles/paralegrep.dir/src/thread_ranking.c.o CMakeFiles/paralegrep.dir/src/utils.c.o -o paralegrep

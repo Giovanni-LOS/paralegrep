@@ -10,6 +10,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/Giovanni/Documents/IFB/SO/paralegrep/src/main.c" "CMakeFiles/paralegrep.dir/src/main.c.o" "gcc" "CMakeFiles/paralegrep.dir/src/main.c.o.d"
   "/home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_dispatcher.c" "CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o" "gcc" "CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o.d"
+  "/home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_ranking.c" "CMakeFiles/paralegrep.dir/src/thread_ranking.c.o" "gcc" "CMakeFiles/paralegrep.dir/src/thread_ranking.c.o.d"
+  "/home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_worker.c" "CMakeFiles/paralegrep.dir/src/thread_worker.c.o" "gcc" "CMakeFiles/paralegrep.dir/src/thread_worker.c.o.d"
   "/home/Giovanni/Documents/IFB/SO/paralegrep/src/utils.c" "CMakeFiles/paralegrep.dir/src/utils.c.o" "gcc" "CMakeFiles/paralegrep.dir/src/utils.c.o.d"
   "" "paralegrep" "gcc" "CMakeFiles/paralegrep.dir/link.d"
   )

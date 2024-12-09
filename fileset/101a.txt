@@ -1,0 +1,111 @@
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+grep -i -o 'lorem' 500.txt | wc -l
+

@@ -177,6 +177,54 @@ src/thread_dispatcher.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.s
 .PHONY : src/thread_dispatcher.c.s
 
+src/thread_ranking.o: src/thread_ranking.c.o
+.PHONY : src/thread_ranking.o
+
+# target to build an object file
+src/thread_ranking.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_ranking.c.o
+.PHONY : src/thread_ranking.c.o
+
+src/thread_ranking.i: src/thread_ranking.c.i
+.PHONY : src/thread_ranking.i
+
+# target to preprocess a source file
+src/thread_ranking.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_ranking.c.i
+.PHONY : src/thread_ranking.c.i
+
+src/thread_ranking.s: src/thread_ranking.c.s
+.PHONY : src/thread_ranking.s
+
+# target to generate assembly for a file
+src/thread_ranking.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_ranking.c.s
+.PHONY : src/thread_ranking.c.s
+
+src/thread_worker.o: src/thread_worker.c.o
+.PHONY : src/thread_worker.o
+
+# target to build an object file
+src/thread_worker.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_worker.c.o
+.PHONY : src/thread_worker.c.o
+
+src/thread_worker.i: src/thread_worker.c.i
+.PHONY : src/thread_worker.i
+
+# target to preprocess a source file
+src/thread_worker.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_worker.c.i
+.PHONY : src/thread_worker.c.i
+
+src/thread_worker.s: src/thread_worker.c.s
+.PHONY : src/thread_worker.s
+
+# target to generate assembly for a file
+src/thread_worker.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/paralegrep.dir/build.make CMakeFiles/paralegrep.dir/src/thread_worker.c.s
+.PHONY : src/thread_worker.c.s
+
 src/utils.o: src/utils.c.o
 .PHONY : src/utils.o
 
@@ -216,6 +264,12 @@ help:
 	@echo "... src/thread_dispatcher.o"
 	@echo "... src/thread_dispatcher.i"
 	@echo "... src/thread_dispatcher.s"
+	@echo "... src/thread_ranking.o"
+	@echo "... src/thread_ranking.i"
+	@echo "... src/thread_ranking.s"
+	@echo "... src/thread_worker.o"
+	@echo "... src/thread_worker.i"
+	@echo "... src/thread_worker.s"
 	@echo "... src/utils.o"
 	@echo "... src/utils.i"
 	@echo "... src/utils.s"

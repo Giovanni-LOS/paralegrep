@@ -100,10 +100,38 @@ CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_dispatcher.c -o CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.s
 
+CMakeFiles/paralegrep.dir/src/thread_worker.c.o: CMakeFiles/paralegrep.dir/flags.make
+CMakeFiles/paralegrep.dir/src/thread_worker.c.o: /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_worker.c
+CMakeFiles/paralegrep.dir/src/thread_worker.c.o: CMakeFiles/paralegrep.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/paralegrep.dir/src/thread_worker.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/paralegrep.dir/src/thread_worker.c.o -MF CMakeFiles/paralegrep.dir/src/thread_worker.c.o.d -o CMakeFiles/paralegrep.dir/src/thread_worker.c.o -c /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_worker.c
+
+CMakeFiles/paralegrep.dir/src/thread_worker.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/paralegrep.dir/src/thread_worker.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_worker.c > CMakeFiles/paralegrep.dir/src/thread_worker.c.i
+
+CMakeFiles/paralegrep.dir/src/thread_worker.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/paralegrep.dir/src/thread_worker.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_worker.c -o CMakeFiles/paralegrep.dir/src/thread_worker.c.s
+
+CMakeFiles/paralegrep.dir/src/thread_ranking.c.o: CMakeFiles/paralegrep.dir/flags.make
+CMakeFiles/paralegrep.dir/src/thread_ranking.c.o: /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_ranking.c
+CMakeFiles/paralegrep.dir/src/thread_ranking.c.o: CMakeFiles/paralegrep.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/paralegrep.dir/src/thread_ranking.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/paralegrep.dir/src/thread_ranking.c.o -MF CMakeFiles/paralegrep.dir/src/thread_ranking.c.o.d -o CMakeFiles/paralegrep.dir/src/thread_ranking.c.o -c /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_ranking.c
+
+CMakeFiles/paralegrep.dir/src/thread_ranking.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/paralegrep.dir/src/thread_ranking.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_ranking.c > CMakeFiles/paralegrep.dir/src/thread_ranking.c.i
+
+CMakeFiles/paralegrep.dir/src/thread_ranking.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/paralegrep.dir/src/thread_ranking.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/Giovanni/Documents/IFB/SO/paralegrep/src/thread_ranking.c -o CMakeFiles/paralegrep.dir/src/thread_ranking.c.s
+
 CMakeFiles/paralegrep.dir/src/utils.c.o: CMakeFiles/paralegrep.dir/flags.make
 CMakeFiles/paralegrep.dir/src/utils.c.o: /home/Giovanni/Documents/IFB/SO/paralegrep/src/utils.c
 CMakeFiles/paralegrep.dir/src/utils.c.o: CMakeFiles/paralegrep.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/paralegrep.dir/src/utils.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/paralegrep.dir/src/utils.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/paralegrep.dir/src/utils.c.o -MF CMakeFiles/paralegrep.dir/src/utils.c.o.d -o CMakeFiles/paralegrep.dir/src/utils.c.o -c /home/Giovanni/Documents/IFB/SO/paralegrep/src/utils.c
 
 CMakeFiles/paralegrep.dir/src/utils.c.i: cmake_force
@@ -118,6 +146,8 @@ CMakeFiles/paralegrep.dir/src/utils.c.s: cmake_force
 paralegrep_OBJECTS = \
 "CMakeFiles/paralegrep.dir/src/main.c.o" \
 "CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o" \
+"CMakeFiles/paralegrep.dir/src/thread_worker.c.o" \
+"CMakeFiles/paralegrep.dir/src/thread_ranking.c.o" \
 "CMakeFiles/paralegrep.dir/src/utils.c.o"
 
 # External object files for target paralegrep
@@ -125,11 +155,13 @@ paralegrep_EXTERNAL_OBJECTS =
 
 paralegrep: CMakeFiles/paralegrep.dir/src/main.c.o
 paralegrep: CMakeFiles/paralegrep.dir/src/thread_dispatcher.c.o
+paralegrep: CMakeFiles/paralegrep.dir/src/thread_worker.c.o
+paralegrep: CMakeFiles/paralegrep.dir/src/thread_ranking.c.o
 paralegrep: CMakeFiles/paralegrep.dir/src/utils.c.o
 paralegrep: CMakeFiles/paralegrep.dir/build.make
 paralegrep: CMakeFiles/paralegrep.dir/compiler_depend.ts
 paralegrep: CMakeFiles/paralegrep.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable paralegrep"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Giovanni/Documents/IFB/SO/paralegrep/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable paralegrep"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/paralegrep.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
